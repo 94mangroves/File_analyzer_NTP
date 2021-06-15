@@ -6,7 +6,7 @@
 # The files must reside in the same folder as the script
 # The variables you will need when running this script in Wing IDE is: -d ./_name_of_folder --md5
 # Syntax for hashes: 
-                     --md5
-                     --sha1
-                    --sha256
-                    --sha512
+--md5
+--sha1
+ --sha256
+--sha512
